@@ -1,16 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to chat with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm Agustinho. I know it is complicated to spell, so you can call me *Guto*. I'm not sure, but my persona is:'
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- A little shy
+- A little focused
+- Too much patient
+- Too much calm
 
-What else do you need?
+What else I can say?
+
+- I like videogames
+- I like drums
+- Dislike sauces
+- Dislike noise (sounds strange? drums are beautiful!)
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+?????-?????-?????
